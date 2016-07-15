@@ -798,10 +798,13 @@ display:flex;
   transform:translateX(-300px);
   transition:all .5s ease;
   z-index: 20;
+  opacity: 0;
 }
 .side.act{
   transform:translateX(0);
   transition:all .5s ease;
+  opacity: 1;
+
 }
 
 .side ul li{

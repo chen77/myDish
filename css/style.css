@@ -790,7 +790,7 @@ display:flex;
 }
 
 .side{
-  width:50%;
+  width:300px;
   height: 100vh;
   background: #333;
   position: fixed;

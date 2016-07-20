@@ -790,12 +790,12 @@ display:flex;
 }
 
 .side{
-  width:300px;
+  width:200px;
   height: 100vh;
   background: #333;
   position: fixed;
   top: 0;
-  transform:translateX(-300px);
+  transform:translateX(-200px);
   transition:all .5s ease;
   z-index: 20;
   opacity: 0;

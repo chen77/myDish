@@ -86,7 +86,7 @@ a{
 }
 .wrapper-log{
   height: 100vh;
-  background:url(../images/log-bg.png) no-repeat center;
+  background:url(http://ww2.sinaimg.cn/large/aaf9f3f0gw1f6047jo61dj20hs0vkqar.jpg) no-repeat center;
   background-size: cover;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -666,7 +666,7 @@ header .my-share:before{
 }
 
 .wrapper-resto{
-  background: url(../images/find-resto.jpg) no-repeat center;
+  background: url(http://ww4.sinaimg.cn/large/aaf9f3f0gw1f604aakoo9j20hs0vknb6.jpg) no-repeat center;
   background-size: cover;
   display: -webkit-flex;
   display: -ms-flexbox;
